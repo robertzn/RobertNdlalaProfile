@@ -1,12 +1,12 @@
 ---
-date: '2018-04-20'
-title: 'Spotify’s Top Tracks of 2017'
+date: '2019'
+title: 'Spotify’s'
 github: ''
 external: ''
 tech:
   - R
   - Spotify Web API
-company: 'Northeastern'
+company: ''
 showInProjects: false
 ---
 

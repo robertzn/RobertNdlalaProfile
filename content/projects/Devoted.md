@@ -1,14 +1,11 @@
 ---
-date: '2018-12-01'
-title: 'Devoted Health'
+date: '2021-12-01'
+title: 'Online Java sprig'
 github: ''
 external: ''
 tech:
   - Gatsby
   - TypeScript
-  - Algolia
-company: 'Upstatement'
+company: ''
 showInProjects: false
 ---
-
-A site for a revolutionary healthcare company, including an Algolia instant search integration

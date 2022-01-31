@@ -266,7 +266,9 @@ const Menu = () => {
               </ol>
             )}
 
-            <a href="/rnresume.pdf" className="resume-link">
+            <a
+              href="https://www.dropbox.com/s/78v0ha1vrthwoya/Robert%20Ndlala%27s%20Resume.pdf?dl=0"
+              className="resume-link">
               Resume
             </a>
           </nav>

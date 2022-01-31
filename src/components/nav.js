@@ -173,7 +173,11 @@ const Nav = ({ isHome }) => {
   );
 
   const ResumeLink = (
-    <a className="resume-button" href="/rnresume.pdf" target="_blank" rel="noopener noreferrer">
+    <a
+      className="resume-button"
+      href="https://www.dropbox.com/s/78v0ha1vrthwoya/Robert%20Ndlala%27s%20Resume.pdf?dl=0"
+      target="_blank"
+      rel="noopener noreferrer">
       Resume
     </a>
   );

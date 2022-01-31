@@ -1,12 +1,12 @@
 ---
 date: '2019-11-25'
-title: ''
+title: 'Online development with CSS'
 github: ''
 external: ''
 tech:
   - Nuxt
   - Vue
   - Prismic
-company: 'Upstatement'
+company: ''
 showInProjects: false
 ---
