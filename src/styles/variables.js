@@ -6,7 +6,7 @@ const variables = css`
     --navy: #282c34;
     --light-navy: #20232a;
     --lightest-navy: #20232a;
-    --navy-shadow: rgba(2, 12, 27, 0.7);
+    --navy-shadow: #20232a;
     --dark-slate: #495670;
     --slate: #8892b0;
     --light-slate: #a8b2d1;
@@ -20,6 +20,8 @@ const variables = css`
     --font-sans: 'Calibre', 'Inter', 'San Francisco', 'SF Pro Text', -apple-system, system-ui,
       sans-serif;
     --font-mono: 'SF Mono', 'Fira Code', 'Fira Mono', 'Roboto Mono', monospace;
+
+    --font-static: 'Exo2';
 
     --fz-xxs: 12px;
     --fz-xs: 13px;

@@ -267,7 +267,7 @@ const Menu = () => {
             )}
 
             <a
-              href="https://www.dropbox.com/s/78v0ha1vrthwoya/Robert%20Ndlala%27s%20Resume.pdf?dl=0"
+              href="https://www.dropbox.com/s/b1xsudyeyf8j3nq/Robert%20Ndlala%27s%20CV%20document.pdf?dl=0"
               className="resume-link">
               Resume
             </a>

@@ -33,20 +33,21 @@ const StyledHeader = styled.header`
 
   @media (prefers-reduced-motion: no-preference) {
     ${props =>
-      props.scrollDirection === 'up' &&
+    props.scrollDirection === 'up' &&
       !props.scrolledToTop &&
       css`
         height: var(--nav-scroll-height);
         transform: translateY(0px);
-        background-color: rgba(10, 25, 47, 0.85);
-        box-shadow: 0 10px 30px -10px var(--navy-shadow);
+        background-color: transparent;
+        box-shadow: 0;
       `};
 
     ${props =>
-      props.scrollDirection === 'down' &&
+    props.scrollDirection === 'down' &&
       !props.scrolledToTop &&
       css`
         height: var(--nav-scroll-height);
+
         transform: translateY(calc(var(--nav-scroll-height) * -1));
         box-shadow: 0 10px 30px -10px var(--navy-shadow);
       `};
@@ -175,7 +176,7 @@ const Nav = ({ isHome }) => {
   const ResumeLink = (
     <a
       className="resume-button"
-      href="https://www.dropbox.com/s/78v0ha1vrthwoya/Robert%20Ndlala%27s%20Resume.pdf?dl=0"
+      href="https://www.dropbox.com/s/b1xsudyeyf8j3nq/Robert%20Ndlala%27s%20CV%20document.pdf?dl=0"
       target="_blank"
       rel="noopener noreferrer">
       Resume

@@ -73,10 +73,10 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="https://drive.google.com/file/d/1-2W7kPXBwXtDZAKh5ZRQJK54vAThIhC9/view?usp=sharing"
+      href="https://www.linkedin.com/in/robertndlala/"
       target="_blank"
       rel="noreferrer">
-      Check out my PDF Profile!
+      LinkedIn Profile Profile!
     </a>
   );
 
