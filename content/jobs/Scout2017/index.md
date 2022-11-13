@@ -1,8 +1,8 @@
 ---
 date: '2018-04-01'
-title: 'Developer'
+title: 'Freelance Developer'
 company: 'Futsa group'
-location: ''
+location: 'online'
 range: 'January - June 2017'
 url: 'https://futsagroup.co.za/#'
 ---

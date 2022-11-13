@@ -78,7 +78,6 @@ const StyledPic = styled.div`
         mix-blend-mode: normal;
       }
     }
-
     .img {
       position: relative;
       border-radius: var(--border-radius);
@@ -144,12 +143,10 @@ const About = () => {
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://sharetrackin.co.za">Sharetrackin Trading & Investment Solutions</a>,{' '}
-              <a href="https://opexsolutions.co.za/">
-                {' '}
-                opex business solutions a full spectrum of technology and business services
-              </a>
-              , <a href="https://emalangenitech.co.za/">a software development company</a>, and{' '}
+              <a href="https://fnb.co.za">First National Bank</a>,{' '}
+              <a href="https://sharetrackin.co.za">C & K Money</a>,{' '}
+              <a href="https://opexsolutions.co.za/"> Opex Business Solutions</a>,{' '}
+              <a href="https://emalangenitech.co.za/">Emalangenitech</a>, and{' '}
               <a href="https://scout.camd.northeastern.edu/">a freelance development</a>. My main
               focus these days is building accessible, inclusive products and digital experiences at{' '}
               <a href="https://ockarsoft.com/">Ockarsoft</a> for a variety of clients.
@@ -172,7 +169,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src="../../images/IMG_7629.jpeg"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}

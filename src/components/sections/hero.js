@@ -28,10 +28,18 @@ const StyledHeroSection = styled.section`
     }
   }
 
+  h2 {
+    margin-top: 10px;
+    color: transparent;
+    line-height: 0.9;
+    -webkit-text-stroke: 1px var(--slate);
+  }
+
   h3 {
     margin-top: 10px;
-    color: var(--slate);
+    color: transparent;
     line-height: 0.9;
+    -webkit-text-stroke: 1px var(--slate);
   }
 
   p {

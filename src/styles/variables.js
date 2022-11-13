@@ -2,7 +2,7 @@ import { css } from 'styled-components';
 
 const variables = css`
   :root {
-    --dark-navy: #20232a;
+    --dark-navy: #282c34;
     --navy: #282c34;
     --light-navy: #20232a;
     --lightest-navy: #20232a;
@@ -12,8 +12,8 @@ const variables = css`
     --light-slate: #a8b2d1;
     --lightest-slate: #ccd6f6;
     --white: #e6f1ff;
-    --green: #64ffda;
-    --green-tint: rgba(100, 255, 218, 0.1);
+    --green: #ff6c37;
+    --green-tint: #ff6c374e;
     --pink: #f57dff;
     --blue: #57cbff;
 

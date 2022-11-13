@@ -7,6 +7,12 @@ range: 'Feb 2020 - Dec 2021'
 url: 'https://www.sharetrackin.com/'
 ---
 
-- Write modern, performant, maintainable code for a diverse array of client and internal projects
-- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify
-- Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis
+- Design and evaluate current UI/UX and identify areas for improvement.
+- Designing and developing RESTful service APIs
+- Build reusable code and libraries for future use.
+- Participate in requirements analysis.
+- Maintains coding standards.
+- Interacting with web/mobile peers.
+- SQL-Server, UML, Object Oriented Programming.
+- Problem-solving of the software or the requirements.
+- Investigating and writing business logic specifications, documentation, UML, and implementation.

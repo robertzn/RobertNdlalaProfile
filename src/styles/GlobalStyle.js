@@ -164,8 +164,9 @@ const GlobalStyle = createGlobalStyle`
     position: relative;
     margin: 10px 0 40px;
     width: 100%;
-    font-size: clamp(26px, 5vw, var(--fz-heading));
+    font-size: clamp(36px, 5vw, var(--fz-heading));
     white-space: nowrap;
+    font-weight: 300;
 
     &:before {
       position: relative;
@@ -176,7 +177,8 @@ const GlobalStyle = createGlobalStyle`
       color: var(--green);
       font-family: var(--font-mono);
       font-size: clamp(var(--fz-md), 3vw, var(--fz-xl));
-      font-weight: 400;
+      font-weight: 300px;
+      
 
       @media (max-width: 480px) {
         margin-bottom: -3px;
@@ -192,7 +194,7 @@ const GlobalStyle = createGlobalStyle`
       width: 300px;
       height: 1px;
       margin-left: 20px;
-      background-color: var(--lightest-navy);
+      background-color: var(--green);
 
       @media (max-width: 1080px) {
         width: 200px;
